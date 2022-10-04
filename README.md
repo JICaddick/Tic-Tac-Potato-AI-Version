@@ -16,7 +16,7 @@ This project will challenge your knowledge of React but should also be an exerci
 
 ### 🏔 Stretch Goals
 - As a user, I can see a notification that informs me whether it is currently my partner or my turn.
-- As a user, I can choose my marker from a predetermined list (X, O, a color, an emoji, etc...).
+- As a user, I can choose my marker from a predetermined list (X, O, a color, an emoji, etc...). 
 
 ### 🛠 Resources
 - [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
