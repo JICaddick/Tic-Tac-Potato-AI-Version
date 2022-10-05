@@ -129,8 +129,7 @@ this.setState({counter: 0})
 
     return(
       <>
-      <h1>Tic Tac Potato</h1>
-      <h4>TURN</h4>
+      <h1>Tic Tac Potato</h1> 
       <div className='gameboard'>
 
        
