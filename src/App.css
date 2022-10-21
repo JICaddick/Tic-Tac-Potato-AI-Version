@@ -32,7 +32,7 @@
 .gameboard {
   display: flex;
   flex-wrap: wrap;
-  width: 610px;
+  max-width: 519px;
   margin: 0 auto;
   align-items: center;
   justify-content: center;
@@ -40,10 +40,10 @@
 }
 /* center the h1 below on the page */
 h1 {
-  text-shadow: 2px 2px 4px rgba(165, 42, 42, 0.76);
+  text-shadow: 5px 5px 4px rgba(165, 42, 42, 0.76);
   font-weight: bold;
   text-align: center;
-  font-size: 80px;
+  font-size: 150px;
   font-weight: bold;
   color: white;
   margin-top: 0px;
