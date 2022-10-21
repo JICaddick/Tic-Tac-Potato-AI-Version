@@ -128,8 +128,8 @@ this.setState({counter: 0})
     
 
     return(
-      <>
-      <h1>Tic Tac Potato</h1> 
+      <main>
+      <h1>Tic Tac P🥔tat🥔</h1> 
       <div className='gameboard'>
 
        
@@ -143,18 +143,19 @@ this.setState({counter: 0})
           index = {index}
           handleGamePlay = {this.handleGamePlay}
           
-      />
+        />
 
     
       
           
           )
         })} 
-      </div>
-      <center><button onClick = {this.restartGame} >RESET GAME</button></center> 
-      
+        </div>
+        <br></br>
+        <center><button onClick={this.restartGame} className='button' >RESET GAME</button></center> 
+        <br></br>
       <footer>~ Coded by JICaddick & GitHub Co-Pilot</footer> 
-      </>
+      </main>
     )
   }
 }
